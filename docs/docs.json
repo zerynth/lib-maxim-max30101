@@ -1,8 +1,0 @@
-{
-	"version":"1.0.0",
-	"title":"MAX30101",
-	"copyright":"Zerynth Team",
-	"files":[
-		["MAX30101","max30101.py"]
-	]
-}
